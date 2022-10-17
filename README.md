@@ -1,5 +1,5 @@
 # tracking-weather
 
-![2](https://user-images.githubusercontent.com/114144254/194896134-95fe270a-40dc-4956-a953-e5fd11627cf9.png)
-![3](https://user-images.githubusercontent.com/114144254/194896154-8d7ab342-8b35-45e5-beae-66977504f24e.png)
-![4](https://user-images.githubusercontent.com/114144254/194896162-171094bc-efe3-4219-9cec-bdb5dfb77bc8.png)
+
+![2](https://user-images.githubusercontent.com/114144254/196239238-25e6c9c2-6e6e-4234-a140-1a42ac8622ed.png)
+![3](https://user-images.githubusercontent.com/114144254/196239250-670e7f01-089e-4834-b77f-0c9ed39e6d98.png)
